@@ -1,1 +1,1 @@
-web: gunicorn bisru.wsgi --log-file -
+web: gunicorn project_dir.wsgi --log-file -
